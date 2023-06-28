@@ -5,7 +5,7 @@
 Para realizar este trabajo es necesario contar con una suscripción de Azure.
 
 # Área de trabajo
-Antes de comenzar a trabajar con Machine Learning Studio, es necesario crear un área de trabajo desde el [portal de Azure](https://portal.azure.com) llamado "Azure Machine Learning". Para poder crear este recurso es necesario llenar dos formularios:
+Antes de comenzar a trabajar con Machine Learning Studio, es necesario crear un área de trabajo desde el [portal de Azure](https://portal.azure.com) llamado **Azure Machine Learning**. Para poder crear este recurso es necesario llenar dos formularios:
 ![](screenshots/K_001.jpg)
 
 ## Aspectos básicos
